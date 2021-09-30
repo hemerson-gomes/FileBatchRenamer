@@ -1,0 +1,44 @@
+{
+  "NonTabs":{
+    "self.menuFile.setTitle":"(\"File\")",
+    "self.menuOptions.setTitle":"(\"Options\")",
+    "self.menuLanguage.setTitle":"(\"Language\")",
+    "self.menuHelp.setTitle":"(\"Help\")",
+    "self.actionExit.setText":"(\"Exit\")",
+    "self.actionOpen_files.setText":"(\"Open files...\")",
+    "self.actionEnglish.setText":"(\"English\")",
+    "self.actionPortugu_s_Brasil.setText":"(\"Português Brasil\")",
+    "self.actionAbout.setText":"(\"About\")",
+    "self.actionSave.setText":"(\"Save\")",
+    "self.labelOriginalFiles.setText":"(\"Original files:\")",
+    "self.labelRenamedFiles.setText":"(\"Renamed files:\")",
+    "self.labelStandardName.setText":"(\"Enter the standard name:\")",
+    "self.groupBoxNumStyle.setTitle":"(\"Numerical style\")",
+    "self.groupBoxStartCount.setTitle":"(\"Start count from (integer)\")",
+    "self.labelReplace.setText":"(\"String to be replaced:\")",
+    "self.labelInsert.setText":"(\"String to be inserted:\")",
+    "self.labelRemove.setText":"(\"String to be removed:\")",
+    "self.pushButtonApply.setText":"(\"Apply\")",
+    "self.pushButtonSave.setText":"(\"Save\")",
+    "self.pushButtonMoveUp.setText":"(\"Move Up\")",
+    "self.pushButtonMoveDown.setText":"(\"Move Down\")"
+  },
+  "Tabs":{
+    "self.tabWidget.setTabText":[
+      "(self.tabWidget.indexOf(self.tabSequentially), \"Rename Sequentially\")",
+      "(self.tabWidget.indexOf(self.tabReplace), \"Replace Common String\")",
+      "(self.tabWidget.indexOf(self.tabRemove), \"Remove Common String\")"
+    ]
+  },
+  "PopupMessages":{
+    "InvalidNumber":"You have not entered a valid number.",
+    "NegativeInteger":"You have not entered a positive number.",
+    "InvalidName":"You have not defined a valid name.",
+    "MissingString":"There is one or more files that do not contain the specified(s) string(s).",
+    "EmptyString":"You have entered an empty string to be inserted.",
+    "WritingError":"An error occured during the saving process.",
+    "SaveSuccess":"Name(s) succesfully modified.",
+    "NoChanges":"You have not made any changes yet."
+  },
+  "About":"<div><h3>File Batch Renamer</h3><h4>Developed by SasaCorporation Limited</h4><p> Version : 2.1.1 </p><p> Litecoin wallet: LLgky6Q9whMAPyPRM3ua8JLJ9TsqJLGXLa</p></div>"
+}
